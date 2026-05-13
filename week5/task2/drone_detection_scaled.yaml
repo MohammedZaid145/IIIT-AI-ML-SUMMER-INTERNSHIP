@@ -1,0 +1,12 @@
+# YOLO26 Dataset Config — Scaled 384x288 (aspect ratio preserved)
+path: /home/claude/drone_dataset
+
+train: images_scaled/train
+val:   images_scaled/val
+test:  images_scaled/test
+
+nc: 2
+
+names:
+  0: drone
+  1: bird
