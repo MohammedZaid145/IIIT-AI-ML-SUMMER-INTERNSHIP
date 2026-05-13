@@ -1,0 +1,33 @@
+# ============================================================
+# YOLO26 Dataset Configuration — Airborne Drone Detection
+# ============================================================
+
+path: C:/Users/zaid shafiq/summer/dataset  # dataset root directory
+
+train: images/train   # relative to 'path'
+val:   images/val     # relative to 'path'
+test:  images/test    # relative to 'path'
+
+# Alternative absolute-path lists (used by some YOLO versions)
+train_txt: /home/claude/drone_dataset/train.txt
+val_txt:   /home/claude/drone_dataset/val.txt
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: drone
+
+# Dataset statistics
+dataset_info:
+  total_images: 600
+  train_images: 100
+  val_images:   40
+  test_images:  460
+  fps_extracted: 10
+  source_video_duration_s: 60
+  image_size: [640, 480]
+  task: object_detection
+  labeling_tool: label-studio
+  label_format: yolo_obb  # oriented bounding boxes compatible

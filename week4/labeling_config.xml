@@ -1,0 +1,22 @@
+<!-- Label Studio Labeling Interface Configuration
+     Task: Airborne Drone Object Detection
+     Format: YOLO Bounding Box
+-->
+<View>
+  <Header value="Drone Detection — Draw bounding boxes around ALL visible drones"/>
+  
+  <Image name="image" value="$image" zoom="true" zoomControl="true" 
+         rotateControl="false" brightnessControl="true"/>
+  
+  <RectangleLabels name="label" toName="image" 
+                   showInline="true" opacity="0.4" strokeWidth="2">
+    <Label value="drone" background="#FF0000" 
+           hotkey="1"
+           hint="Any airborne unmanned aerial vehicle (UAV/drone)"/>
+  </RectangleLabels>
+  
+  <!-- Quality control: annotator notes -->
+  <TextArea name="notes" toName="image" 
+            placeholder="Optional: note anything unusual (occlusion, blur, multiple drones, etc.)"
+            maxSubmissions="1" editable="true"/>
+</View>

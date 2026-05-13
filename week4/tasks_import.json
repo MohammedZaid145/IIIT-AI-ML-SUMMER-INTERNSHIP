@@ -1,0 +1,1542 @@
+[
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0001.jpg",
+      "filename": "frame_0001.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0006.jpg",
+      "filename": "frame_0006.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0011.jpg",
+      "filename": "frame_0011.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0016.jpg",
+      "filename": "frame_0016.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0021.jpg",
+      "filename": "frame_0021.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0026.jpg",
+      "filename": "frame_0026.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0031.jpg",
+      "filename": "frame_0031.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0036.jpg",
+      "filename": "frame_0036.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0041.jpg",
+      "filename": "frame_0041.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0046.jpg",
+      "filename": "frame_0046.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0051.jpg",
+      "filename": "frame_0051.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0056.jpg",
+      "filename": "frame_0056.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0061.jpg",
+      "filename": "frame_0061.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0066.jpg",
+      "filename": "frame_0066.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0071.jpg",
+      "filename": "frame_0071.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0076.jpg",
+      "filename": "frame_0076.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0081.jpg",
+      "filename": "frame_0081.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0086.jpg",
+      "filename": "frame_0086.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0091.jpg",
+      "filename": "frame_0091.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0096.jpg",
+      "filename": "frame_0096.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0101.jpg",
+      "filename": "frame_0101.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0106.jpg",
+      "filename": "frame_0106.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0111.jpg",
+      "filename": "frame_0111.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0116.jpg",
+      "filename": "frame_0116.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0121.jpg",
+      "filename": "frame_0121.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0126.jpg",
+      "filename": "frame_0126.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0131.jpg",
+      "filename": "frame_0131.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0136.jpg",
+      "filename": "frame_0136.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0141.jpg",
+      "filename": "frame_0141.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0146.jpg",
+      "filename": "frame_0146.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0151.jpg",
+      "filename": "frame_0151.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0156.jpg",
+      "filename": "frame_0156.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0161.jpg",
+      "filename": "frame_0161.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0166.jpg",
+      "filename": "frame_0166.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0171.jpg",
+      "filename": "frame_0171.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0176.jpg",
+      "filename": "frame_0176.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0181.jpg",
+      "filename": "frame_0181.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0186.jpg",
+      "filename": "frame_0186.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0191.jpg",
+      "filename": "frame_0191.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0196.jpg",
+      "filename": "frame_0196.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0201.jpg",
+      "filename": "frame_0201.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0206.jpg",
+      "filename": "frame_0206.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0211.jpg",
+      "filename": "frame_0211.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0216.jpg",
+      "filename": "frame_0216.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0221.jpg",
+      "filename": "frame_0221.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0226.jpg",
+      "filename": "frame_0226.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0231.jpg",
+      "filename": "frame_0231.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0236.jpg",
+      "filename": "frame_0236.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0241.jpg",
+      "filename": "frame_0241.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0246.jpg",
+      "filename": "frame_0246.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0251.jpg",
+      "filename": "frame_0251.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0256.jpg",
+      "filename": "frame_0256.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0261.jpg",
+      "filename": "frame_0261.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0266.jpg",
+      "filename": "frame_0266.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0271.jpg",
+      "filename": "frame_0271.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0276.jpg",
+      "filename": "frame_0276.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0281.jpg",
+      "filename": "frame_0281.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0286.jpg",
+      "filename": "frame_0286.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0291.jpg",
+      "filename": "frame_0291.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0296.jpg",
+      "filename": "frame_0296.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0301.jpg",
+      "filename": "frame_0301.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0306.jpg",
+      "filename": "frame_0306.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0311.jpg",
+      "filename": "frame_0311.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0316.jpg",
+      "filename": "frame_0316.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0321.jpg",
+      "filename": "frame_0321.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0326.jpg",
+      "filename": "frame_0326.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0331.jpg",
+      "filename": "frame_0331.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0336.jpg",
+      "filename": "frame_0336.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0341.jpg",
+      "filename": "frame_0341.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0346.jpg",
+      "filename": "frame_0346.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0351.jpg",
+      "filename": "frame_0351.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0356.jpg",
+      "filename": "frame_0356.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0361.jpg",
+      "filename": "frame_0361.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0366.jpg",
+      "filename": "frame_0366.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0371.jpg",
+      "filename": "frame_0371.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0376.jpg",
+      "filename": "frame_0376.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0381.jpg",
+      "filename": "frame_0381.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0386.jpg",
+      "filename": "frame_0386.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0391.jpg",
+      "filename": "frame_0391.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0396.jpg",
+      "filename": "frame_0396.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0401.jpg",
+      "filename": "frame_0401.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0406.jpg",
+      "filename": "frame_0406.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0411.jpg",
+      "filename": "frame_0411.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0416.jpg",
+      "filename": "frame_0416.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0421.jpg",
+      "filename": "frame_0421.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0426.jpg",
+      "filename": "frame_0426.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0431.jpg",
+      "filename": "frame_0431.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0436.jpg",
+      "filename": "frame_0436.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0441.jpg",
+      "filename": "frame_0441.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0446.jpg",
+      "filename": "frame_0446.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0451.jpg",
+      "filename": "frame_0451.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0456.jpg",
+      "filename": "frame_0456.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0461.jpg",
+      "filename": "frame_0461.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0466.jpg",
+      "filename": "frame_0466.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0471.jpg",
+      "filename": "frame_0471.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0476.jpg",
+      "filename": "frame_0476.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0481.jpg",
+      "filename": "frame_0481.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0486.jpg",
+      "filename": "frame_0486.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0491.jpg",
+      "filename": "frame_0491.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/train/frame_0496.jpg",
+      "filename": "frame_0496.jpg",
+      "split": "train"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0501.jpg",
+      "filename": "frame_0501.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0503.jpg",
+      "filename": "frame_0503.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0505.jpg",
+      "filename": "frame_0505.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0507.jpg",
+      "filename": "frame_0507.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0509.jpg",
+      "filename": "frame_0509.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0511.jpg",
+      "filename": "frame_0511.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0513.jpg",
+      "filename": "frame_0513.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0515.jpg",
+      "filename": "frame_0515.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0517.jpg",
+      "filename": "frame_0517.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0519.jpg",
+      "filename": "frame_0519.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0521.jpg",
+      "filename": "frame_0521.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0523.jpg",
+      "filename": "frame_0523.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0525.jpg",
+      "filename": "frame_0525.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0527.jpg",
+      "filename": "frame_0527.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0529.jpg",
+      "filename": "frame_0529.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0531.jpg",
+      "filename": "frame_0531.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0533.jpg",
+      "filename": "frame_0533.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0535.jpg",
+      "filename": "frame_0535.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0537.jpg",
+      "filename": "frame_0537.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0539.jpg",
+      "filename": "frame_0539.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0541.jpg",
+      "filename": "frame_0541.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0543.jpg",
+      "filename": "frame_0543.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0545.jpg",
+      "filename": "frame_0545.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0547.jpg",
+      "filename": "frame_0547.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0549.jpg",
+      "filename": "frame_0549.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0551.jpg",
+      "filename": "frame_0551.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0553.jpg",
+      "filename": "frame_0553.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0555.jpg",
+      "filename": "frame_0555.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0557.jpg",
+      "filename": "frame_0557.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0559.jpg",
+      "filename": "frame_0559.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0561.jpg",
+      "filename": "frame_0561.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0563.jpg",
+      "filename": "frame_0563.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0565.jpg",
+      "filename": "frame_0565.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0567.jpg",
+      "filename": "frame_0567.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0569.jpg",
+      "filename": "frame_0569.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0571.jpg",
+      "filename": "frame_0571.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0573.jpg",
+      "filename": "frame_0573.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0575.jpg",
+      "filename": "frame_0575.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0577.jpg",
+      "filename": "frame_0577.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=/home/claude/drone_dataset/images/val/frame_0579.jpg",
+      "filename": "frame_0579.jpg",
+      "split": "val"
+    },
+    "meta": {
+      "source_video": "drone_footage.mp4",
+      "fps": 10
+    }
+  }
+]
